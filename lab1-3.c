@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Lab 1: 2025-09-29
- * 3. Write a program to input two integers and perform all arithmetic
+ * 3. Write a C program to input two integers and perform all arithmetic
  *    operations: addition, subtraction, multiplication, division and
  *    modulus.
  */

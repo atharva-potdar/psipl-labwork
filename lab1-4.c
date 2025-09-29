@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 /* Lab 1: 2025-09-29 [HOME]
- * 4. Write a program to input two numbers and check which one is greater
+ * 4. Write a C program to input two numbers and check which one is greater
  *    or if they are equal using ternary operator.
  */
 
@@ -26,4 +26,6 @@ int main(void)
     {
         printf("%d is greater than %d\n", greater, (a + b - greater));
     }
+
+    return 0;
 }
