@@ -12,11 +12,13 @@
 /*
 int main(void)
 {
+    // Defining the variables
     int a = 10;
     float b = 5.1234567890;
     char c = 'G';
     double d = 123.1234567891234567890;
 
+    // Printing the values and their sizes
     // NOTE: Professor used %lu for the bytes.
     printf("Integer: %d, Size: %d bytes\n", a, sizeof(a));
     printf("Float: %.9f, Size: %d bytes\n", b, sizeof(b));
