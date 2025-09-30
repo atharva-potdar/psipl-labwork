@@ -5,7 +5,7 @@
  *    using the conditional operator (?:).
  */
 
-
+/*
 int main(void)
 {
     int num;
@@ -16,3 +16,4 @@ int main(void)
 
     return 0;
 }
+*/

@@ -6,7 +6,7 @@
  *     the user for P, R and T;
  */
 
-
+/*
 int main(void)
 {
     int p, r, t;
@@ -18,3 +18,4 @@ int main(void)
 
     return 0;
 }
+*/

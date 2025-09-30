@@ -6,7 +6,7 @@
  *    'a' initialized to value 5.
  */
 
-
+/*
 int main(void)
 {
     int a = 5;
@@ -21,3 +21,4 @@ int main(void)
 
     return 0;
 }
+*/

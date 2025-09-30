@@ -38,10 +38,31 @@
 		<Unit filename="lab1-1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="lab1-10.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="lab1-2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="lab1-3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1-9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

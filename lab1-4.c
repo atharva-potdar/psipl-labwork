@@ -6,11 +6,11 @@
  *    or if they are equal using ternary operator.
  */
 
-
+/*
 int main(void)
 {
     int a, b;
-    bool isEqual = false;    
+    bool isEqual = false;
 
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
@@ -29,3 +29,4 @@ int main(void)
 
     return 0;
 }
+*/
