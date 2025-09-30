@@ -8,10 +8,14 @@
 /*
 int main(void)
 {
+    // Declare integer
     int num;
+
+    // Take its input
     printf("Enter a number: ");
     scanf("%d", &num);
 
+    // Print whether it's even or odd
     printf((num % 2 == 0) ? "Even\n" : "Odd\n");
 
     return 0;

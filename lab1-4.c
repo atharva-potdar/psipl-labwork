@@ -18,6 +18,7 @@ int main(void)
     // Calculate the greater number of the 2
     int greater = (a > b) ? a : b;
 
+    // Check if they are equal, otherwise print the largest accordingly
     (a == b)
     ?
     (printf("%d and %d are equal\n", a, b))

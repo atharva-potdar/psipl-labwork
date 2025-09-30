@@ -9,11 +9,14 @@
 /*
 int main(void)
 {
+    // Declare principal, rate, time
     int p, r, t;
 
+    // Input them
     printf("Enter Principal, Rate, and Time: ");
     scanf("%d %d %d", &p, &r, &t);
 
+    // Calculate and print simple interest according to the formula
     printf("Simple Interest = %.2f\n", (1.0 * p * r * t / 100));
 
     return 0;

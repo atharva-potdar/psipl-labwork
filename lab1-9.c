@@ -8,11 +8,14 @@
 /*
 int main(void)
 {
+    // Declare two integers
     int a, b;
 
+    // Input them
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
 
+    // Perform and print the required operations
     printf("Bitwise AND: %d\n", a & b);
     printf("Bitwise OR: %d\n", a | b);
     printf("Bitwise XOR: %d\n", a ^ b);
