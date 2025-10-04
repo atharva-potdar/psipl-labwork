@@ -23,7 +23,7 @@ int main(void)
     printf("Addition: %d\n", a + b);
     printf("Subtraction: %d\n", a - b);
     printf("Multiplication: %d\n", a * b);
-    printf("Division: %.2lf\n", 1.0 * a / b);
+    printf("Division: %.0lf\n", 1.0 * a / b);
     printf("Modulus: %d\n", a % b);
 
     return 0;
